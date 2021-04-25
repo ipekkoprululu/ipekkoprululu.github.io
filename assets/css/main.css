@@ -160,7 +160,7 @@ input, select, textarea {
 		}
 
 	body, input, select, textarea {
-		font-family: 'avenir', Avenir, regular;
+		font-family: 'flama_semicondensedmedium', Flama Semicondensed, medium;
 		color: #ffffff;
 		font-weight: 300;
 		font-size: 1rem;
@@ -193,7 +193,7 @@ input, select, textarea {
 	}
 
 	p {
-		font-family: 'avenir', Avenir, regular;
+		font-family: 'avenir', Avenir, Arial, Helvetica, sans-serif;
 		margin: 0 0 2rem 0;
 	}
 
