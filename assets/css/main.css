@@ -161,7 +161,6 @@ input, select, textarea {
 
 	body, input, select, textarea {
 		color: #ffffff;
-		font-family: 'flama_semicondensedmedium', Flama Semicondensed, medium;
 		font-weight: 300;
 		font-size: 1rem;
 		line-height: 1.65;
@@ -193,10 +192,12 @@ input, select, textarea {
 	}
 
 	p {
+		font-family: 'avenir', Avenir, regular;
 		margin: 0 0 2rem 0;
 	}
 
 	h1, h2, h3, h4, h5, h6 {
+		font-family: 'flama_semicondensedmedium', Flama Semicondensed, medium;
 		color: #ffffff;
 		font-weight: 600;
 		line-height: 1.5;
