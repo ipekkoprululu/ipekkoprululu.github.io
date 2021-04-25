@@ -477,7 +477,7 @@ input, select, textarea {
 		select:focus,
 		textarea:focus {
 			background: rgba(255, 255, 255, 0.075);
-			border-color: #ffffff;
+			border-color: #e22a1b;
 			box-shadow: 0 0 0 0px #ffffff;
 		}
 
