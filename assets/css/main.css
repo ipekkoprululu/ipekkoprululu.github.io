@@ -451,7 +451,7 @@ input, select, textarea {
 		transition: border-color 0.2s ease-in-out, box-shadow 0.2s ease-in-out, background-color 0.2s ease-in-out;
 		background-color: transparent;
 		border-radius: 0px;
-		border: solid 8px #e22a1b;
+		border: solid 8px #000000;
 		color: inherit;
 		display: block;
 		outline: 0;
