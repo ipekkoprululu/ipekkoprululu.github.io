@@ -1217,7 +1217,7 @@ input, select, textarea {
 	/* Set your background with this */
 
 		background: #eee8aa url("../../images/bg2.png") bottom left;
-		background-repeat: repeat-x;
+		background-repeat: repeat;
 		height: 100%;
 		left: 0;
 		opacity: 1;
@@ -1608,7 +1608,7 @@ input, select, textarea {
 
 					#header nav ul li {
 						border-left: 0;
-						border-top: solid 8px #e22a1b;
+						border-top: solid 8px #000000;
 					}
 
 						#header nav ul li:first-child {
@@ -1759,9 +1759,9 @@ input, select, textarea {
 		-ms-transition: -ms-transform 0.325s ease-in-out, -ms-filter 0.325s ease-in-out, opacity 0.325s ease-in-out;
 		transition: transform 0.325s ease-in-out, filter 0.325s ease-in-out, opacity 0.325s ease-in-out;
 		width: 100%;
-		max-width: 100%;
-		margin-top: 2rem;
-		text-align: center;
+		max-width: 450px;
+		margin-top: 4.5rem;
+		text-align: left;
 	}
 
 		#footer .copyright {
