@@ -1441,7 +1441,7 @@ input, select, textarea {
 				-ms-transition-delay: 0.25s;
 				transition-delay: 0.25s;
 				padding: 3rem 2rem;
-				max-height: 40rem;
+				max-height: 50rem;
 				overflow: hidden;
 				background: url("../../images/borders-01.png"), url("../../images/borders-01.png"), url("../../images/borders-02.png"), url("../../images/borders-02.png");
 				background-position: top left, top right, bottom left, bottom right;;
