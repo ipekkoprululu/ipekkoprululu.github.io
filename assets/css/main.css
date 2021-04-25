@@ -23,6 +23,14 @@
        url('/path-to/avenir.ttf')  format('truetype');
 }
 
+@font-face {
+	font-family: 'Conv_FlamaCondensed-Medium';
+	src: url('../webfonts//FlamaCondensed-Medium.eot');
+	src: local('☺'), url('../webfonts//FlamaCondensed-Medium.woff') format('woff'), url('../webfonts//FlamaCondensed-Medium.ttf') format('truetype'), url('../webfonts//FlamaCondensed-Medium.svg') format('svg');
+	font-weight: normal;
+	font-style: normal;
+}
+
 html, body, div, span, applet, object,
 iframe, h1, h2, h3, h4, h5, h6, p, blockquote,
 pre, a, abbr, acronym, address, big, cite,
@@ -157,7 +165,7 @@ input, select, textarea {
 		}
 
 	body, input, select, textarea {
-		font-family: 'flama_semicondensedmedium', Flama Semicondensed, medium;
+		font-family: 'Conv_FlamaCondensed-Medium', Flama Condensed, medium;
 		color: #ffffff;
 		font-weight: 300;
 		font-size: 1rem;
