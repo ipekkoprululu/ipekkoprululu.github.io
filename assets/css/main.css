@@ -160,6 +160,7 @@ input, select, textarea {
 		}
 
 	body, input, select, textarea {
+		font-family: 'avenir', Avenir, regular;
 		color: #ffffff;
 		font-weight: 300;
 		font-size: 1rem;
