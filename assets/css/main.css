@@ -1594,7 +1594,7 @@ input, select, textarea {
 			}
 
 				#header .content .inner {
-					padding: 2.5rem 2rem;
+					padding: 2.5rem 0;
 				}
 
 				#header nav ul {
