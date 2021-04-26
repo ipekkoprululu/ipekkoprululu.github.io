@@ -1609,7 +1609,7 @@ input, select, textarea {
 
 				#header .content .inner {
 					max-height: 50rem;
-					padding: 2.5rem 0;
+					padding: 2.5rem 0.5rem 2.5rem 0.5rem;
 				}
 
 				#header nav ul {
