@@ -1603,13 +1603,13 @@ input, select, textarea {
 			}
 			
 				#header .content {
-				max-width: 100%;
+				max-width: 90%;
 
 				}
 
 				#header .content .inner {
 					max-height: 50rem;
-					padding: 2.5rem 0.5rem 2.5rem 0.5rem;
+					padding: 2.5rem 1.5rem 2.5rem 1.5rem;
 				}
 
 				#header nav ul {
