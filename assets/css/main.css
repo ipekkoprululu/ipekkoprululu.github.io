@@ -1449,7 +1449,7 @@ input, select, textarea {
 				-webkit-transition-delay: 0.25s;
 				-ms-transition-delay: 0.25s;
 				transition-delay: 0.25s;
-				padding: 3rem 2rem;
+				padding: 3rem 3rem;
 				max-height: 50rem;
 				overflow: hidden;
 				background: url("../../images/borders-01.png"), url("../../images/borders-01.png"), url("../../images/borders-02.png"), url("../../images/borders-02.png");
