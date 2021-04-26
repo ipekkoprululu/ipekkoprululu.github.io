@@ -164,7 +164,7 @@ input, select, textarea {
 
 		}
 
-	body, input, select {
+	body, select {
 		font-family: 'Conv_FlamaCondensed-Medium', Flama Condensed, medium;
 		color: #ffffff;
 		font-weight: 300;
@@ -173,7 +173,7 @@ input, select, textarea {
 		
 	}
 
-	textarea {
+	input, textarea {
 		font-family: 'avenir', Arial, Helvetica, sans-serif;
 		color: #ffffff;
 		font-weight: 300;
@@ -1608,7 +1608,7 @@ input, select, textarea {
 				}
 
 				#header .content .inner {
-					max-height: 50rem;
+					max-height: 60rem;
 					padding: 2.5rem 1.8rem 2.5rem 1.8rem;
 				}
 
