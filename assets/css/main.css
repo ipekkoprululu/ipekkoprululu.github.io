@@ -1449,8 +1449,8 @@ input, select, textarea {
 				-webkit-transition-delay: 0.25s;
 				-ms-transition-delay: 0.25s;
 				transition-delay: 0.25s;
-				padding: 3rem 3rem;
-				max-height: 50rem;
+				padding: 3rem 2rem;
+				max-height: 40rem;
 				overflow: hidden;
 				background: url("../../images/borders-01.png"), url("../../images/borders-01.png"), url("../../images/borders-02.png"), url("../../images/borders-02.png");
 				background-position: top left, top right, bottom left, bottom right;;
@@ -1602,12 +1602,13 @@ input, select, textarea {
 				padding: 2.5rem 2.5rem;
 			}
 			
-			#header .content {
-			max-width: 60%;
+				#header .content {
+				max-width: 100%;
 
-			}
+				}
 
 				#header .content .inner {
+					max-height: 50rem;
 					padding: 2.5rem 0;
 				}
 
