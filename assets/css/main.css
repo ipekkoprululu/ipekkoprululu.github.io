@@ -1599,7 +1599,7 @@ input, select, textarea {
 		@media screen and (max-width: 480px) {
 
 			#header {
-				padding: 1.5rem 0;
+				padding: 2.5rem 2.5rem;
 			}
 
 				#header .content .inner {
