@@ -164,7 +164,7 @@ input, select, textarea {
 
 		}
 
-	body{
+	body, select {
 		font-family: 'Conv_FlamaCondensed-Medium', Flama Condensed, medium;
 		color: #ffffff;
 		font-weight: 300;
@@ -173,7 +173,7 @@ input, select, textarea {
 		
 	}
 
-	input, select, textarea {
+	input, textarea {
 		font-family: 'avenir', Arial, Helvetica, sans-serif;
 		color: #ffffff;
 		font-weight: 300;
