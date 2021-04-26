@@ -1601,6 +1601,11 @@ input, select, textarea {
 			#header {
 				padding: 2.5rem 2.5rem;
 			}
+			
+			#header .content {
+			max-width: 60%;
+
+			}
 
 				#header .content .inner {
 					padding: 2.5rem 0;
